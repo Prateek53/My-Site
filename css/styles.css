@@ -1,0 +1,86 @@
+/* For fonts, 100%=16px=1em. */
+body {
+  background-color: #b3e8e5;
+  margin: 0 0 0 0;
+  text-align: center;
+}
+h1 {
+  /* width: 10%;  this will make the width of h1 10% and the text-align wont be applied here so to overcome that we use margin: auto so we can have 10% width and center*/
+  margin: 6.25rem auto 0 auto;
+  font-family: "Satisfy", cursive;
+  font-size: 4.6875rem;
+}
+h2 {
+  font-size: 3.125rem;
+  color: #2f8f9d;
+}
+h3 {
+  font-size: 2rem;
+}
+p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+.heading {
+  font-family: "Roboto Slab", serif;
+}
+.container-one {
+  position: relative;
+  padding: 1rem;
+}
+.cloud-one {
+  height: 10rem;
+  width: 10rem;
+  position: absolute;
+  top: 3.125rem;
+  right: 12.5rem;
+}
+.cloud-two {
+  height: 12rem;
+  width: 12rem;
+  position: absolute;
+  top: 11.25rem;
+  left: 8rem;
+}
+.ppic {
+  width: 15.625rem;
+}
+.skill-one-img {
+  width: 50%;
+}
+.title-heading {
+  color: #2f8f9d;
+  /*sets the gap in between two lines. */
+}
+#about {
+  font-weight: normal;
+  font-size: 2rem;
+}
+.heading-three {
+  color: #11999e;
+}
+.skill-two-img {
+  margin: 3.5rem auto 2rem auto;
+  width: 35%;
+}
+.social {
+  color: #3bacb6;
+}
+#coding {
+  margin-top: 0;
+}
+hr {
+  /* margin: 16px auto 16; */
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 0.5rem;
+  border-color: #4cacbc;
+}
+.skill-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+.about-mee {
+  width: 50%;
+  margin: 1.25rem auto 2rem auto;
+}
