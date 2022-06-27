@@ -28,6 +28,9 @@ p {
   position: relative;
   padding: 1rem;
 }
+.container-three {
+  background-color: #66bfbf;
+}
 .cloud-one {
   height: 10rem;
   width: 10rem;
@@ -63,9 +66,9 @@ p {
   margin: 3.5rem auto 2rem auto;
   width: 35%;
 }
-.social {
-  color: #3bacb6;
-}
+/* .social {
+  color: #11999e;
+} */
 #coding {
   margin-top: 0;
 }
@@ -83,4 +86,29 @@ hr {
 .about-mee {
   width: 50%;
   margin: 1.25rem auto 2rem auto;
+}
+#tm {
+  margin-bottom: 0;
+  color: #eaf6f6;
+  padding-bottom: 2rem;
+}
+.social {
+  color: #11999e;
+  text-decoration: none;
+  margin: 1rem;
+}
+#scls {
+  padding-top: 2rem;
+}
+.button {
+  background-color: #66bfbf;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  padding: 0.8rem;
+  margin-bottom: 3.5rem;
+}
+.btn {
+  text-decoration: none;
+  color: #eaf6f6;
 }
