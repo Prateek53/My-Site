@@ -112,3 +112,9 @@ hr {
   text-decoration: none;
   color: #eaf6f6;
 }
+.button:hover {
+  background-color: #2f8f9d;
+}
+.social:hover {
+  color: white;
+}
